@@ -1,0 +1,12 @@
+{
+  "name": "mentoria-cypress-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^13.0.0",
+    "cypress": "^14.0.0"
+  }
+}
