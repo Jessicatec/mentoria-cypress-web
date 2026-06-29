@@ -19,7 +19,6 @@ export function Cadastrar() {
     cy.get('#btnRegister').click();
 }
 
-}
 
 export function CadastrarUsuario(nome,email,senha) {
 acessarCadastro()
